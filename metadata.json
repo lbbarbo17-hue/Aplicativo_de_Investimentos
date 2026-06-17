@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Investimentos e Financiamento Imobiliário",
+  "description": "Aplicativo para simular investimento futuro, valor presente de financiamento, cálculo de imóvel por m² com resgates e extratos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
